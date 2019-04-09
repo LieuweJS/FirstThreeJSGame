@@ -1,4 +1,5 @@
 # FirstThreeJSGame
-my first shot at making a game using the library three.js
 
-december 2018----januari 2019
+A very basic first person shooter using the JavaScript library 'Three.js'. In this project I explore the bascis of 3D graphics.
+
+December 2018----January 2019
